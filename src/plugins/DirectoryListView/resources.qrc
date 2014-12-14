@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="inode_directory">resources/inode_directory_16.png</file>
+        <file alias="inode_file">resources/inode_file_16.png</file>
+        <file alias="inode_disk">resources/disk icon_16x16.png</file>
+    </qresource>
+</RCC>

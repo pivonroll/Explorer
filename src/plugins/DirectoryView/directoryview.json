@@ -1,0 +1,11 @@
+{
+    "Name" : "DirectoryView",
+    "Version" : "0.1",
+    "CompatVersion" : "0.1",
+    "Vendor" : "RadovanZivkovic",
+    "Copyright" : "(C) 2014 RadovanZivkovic",
+    "License" : "GPL v3",
+    "Category" : "C++",
+    "Description" : "Provides a basic directory view."
+}
+

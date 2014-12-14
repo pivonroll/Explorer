@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="inode_directory_128">resources/icons/inode_directory_128.png</file>
+        <file alias="inode_file_128">resources/icons/inode_file_128.png</file>
+        <file alias="inode_directory_16">resources/icons/inode_directory_16.png</file>
+        <file alias="inode_directory_32">resources/icons/inode_directory_32.png</file>
+        <file alias="inode_directory_48">resources/icons/inode_directory_48.png</file>
+        <file alias="inode_directory_64">resources/icons/inode_directory_64.png</file>
+        <file alias="inode_file_16">resources/icons/inode_file_16.png</file>
+        <file alias="inode_file_32">resources/icons/inode_file_32.png</file>
+        <file alias="inode_file_48">resources/icons/inode_file_48.png</file>
+        <file alias="inode_file_64">resources/icons/inode_file_64.png</file>
+    </qresource>
+    <qresource prefix="/stylesheet">
+        <file alias="directory_item_dir">resources/stylesheets/directory_item_dir.qss</file>
+        <file alias="directory_item_file">resources/stylesheets/directory_item_file.qss</file>
+    </qresource>
+</RCC>
